@@ -1,6 +1,4 @@
 # hackathon-mentorship-gdg-
-¡Brutal! 🔥🙌
-Entonces ahora toca **dejar el repo BIEN detallado y ordenado**, listo para que los mentores entren sin dudas. Aquí tienes **TODO paso a paso**, para que lo copies y pegues.
 
 ---
 
