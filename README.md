@@ -77,18 +77,31 @@ Usa Issues para dudas técnicas o acompañamiento.
 
 ## 📄 mentors/README.md
 
-```md
-# Mentores
+git checkout -b mentor-mauro
+git push -u origin mentor-mauro
 
-Cada mentor trabaja en su propia rama.
+git checkout main
+git checkout -b mentor-carlos
+git push -u origin mentor-carlos
 
-Incluye aquí:
-- Nombre
-- Especialidad
-- Qué tipo de ayuda ofrece
-```
+git checkout main
+git checkout -b mentor-miguel-medrano
+git push -u origin mentor-miguel-medrano
 
----
+git checkout main
+git checkout -b mentor-jesus
+git push -u origin mentor-jesus
+
+git checkout main
+git checkout -b mentor-maicol
+git push -u origin mentor-maicol
+
+git checkout main
+git checkout -b mentor-dayana
+git push -u origin mentor-dayana
+
+git checkout main
+
 
 ## 📄 examples/README.md
 
