@@ -77,6 +77,7 @@ Usa Issues para dudas técnicas o acompañamiento.
 
 ## 📄 mentors/README.md
 
+```
 git checkout -b mentor-mauro
 git push -u origin mentor-mauro
 
@@ -102,7 +103,7 @@ git push -u origin mentor-dayana
 
 git checkout main
 
-
+```
 ## 📄 examples/README.md
 
 ```md
